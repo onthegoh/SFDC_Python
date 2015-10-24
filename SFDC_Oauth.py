@@ -34,8 +34,6 @@ accessToken = req['access_token']
 instanceURL = req['instance_url']
 issuedAt = req['issued_at']
 
-#cookies = dict(ACCESS_TOKEN=accessToken)
-
 print req
 
 print accessToken
