@@ -7,4 +7,4 @@ Program:
 OAUTH - used to sign-in to a demo org using Connected Apps
 
 Sample Screenshot:
-![SFDCOauth](/onthegoh/SFDC_Python/master/OrgHealthPython.png?raw=true)
+![SFDCOauth](https://raw.githubusercontent.com/onthegoh/SFDC_Python/master/OrgHealthPython.png)
